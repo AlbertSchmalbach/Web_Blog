@@ -2,3 +2,5 @@ HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) e
 HTML utiliza "marcas" para etiquetar texto, imágenes y otro contenido para mostrarlo en un navegador Web.
 
 Actualmente esta tecnologia es la base para el desarrollo de contenido web.
+
+Otro texto.
